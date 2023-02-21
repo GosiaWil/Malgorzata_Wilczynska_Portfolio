@@ -15,7 +15,6 @@
 # Tech skills
 * SQL
 * DevTools
-* Postman
 * Software Testing
 * Creating test cases
 * Reporting bugs
@@ -29,8 +28,8 @@
 
 # Books
 * Radosław Smilgin <i> Zawód Tester </i>
-* Karolina Pawłowska, Natalia Pawlak - <i> Podróż przez świat testowania </i>
-* Adam Roman - <i> Certyfikowany tester ISTQB. Poziom podstawowy </i>
+* Karolina Pawłowska, Natalia Pawlak  <i> Podróż przez świat testowania </i>
+* Adam Roman  <i> Certyfikowany tester ISTQB. Poziom podstawowy </i>
 * Piotr Wicherski <i> Testowanie oprogramowiania </i>
 
 # Groups on Facebook 
@@ -58,8 +57,14 @@
 * Porozmawiajmy o IT
 
 # My test case examples
+<a href="https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link">Test cases1 for website Scouts Panel</a>
+<a href="https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link">Test cases2 for website Scouts Panel</a>
 
 # My bug reports
-* For website : [Bugs reported for website Futbol Scaut]
-* For mobile : [Bugs reported for app OLX]
+* For website : <a href="http://pasja-informatyki.pl">Bugs reported for website Scouts Panel</a>
+* For mobile : <a href="http://pasja-informatyki.pl">Bugs reported for app OLX</a>
+
 # My examples of queries in MySQL
+
+<a href="https://docs.google.com/document/d/1BObVkVdZNA2CyloSpWYX1wqovvJguQt-txr2Wzv3u6s/edit?usp=share_link "> SQL Queries are here</a>
+
