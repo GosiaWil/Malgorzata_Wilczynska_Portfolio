@@ -33,19 +33,17 @@
 * Piotr Wicherski <i> Testowanie oprogramowiania </i>
 
 # Groups on Facebook 
-* <a href="http://pasja-informatyki.pl">Tester oprogramowania - wsparcie na starcie</a> 
-*  <a href="http://pasja-informatyki.pl">Testowanie oprogramowania - Materiały|Porady</a> 
-*  <a href="http://pasja-informatyki.pl">Początki w IT/Początkujący programiści</a> 
-*  <a href="http://pasja-informatyki.pl">Start w IT - początkujący tester oprogramowania i programista</a> 
-* <a href="http://pasja-informatyki.pl">QA Testers - job offers </a> 
-* <a href="http://pasja-informatyki.pl">Testowanie oprogramowania </a> 
-*  <a href="http://pasja-informatyki.pl">Dare IT Community</a> 
+* <a href="https://www.facebook.com/groups/testeroprogramowania">Tester oprogramowania - wsparcie na starcie</a> 
+*  <a href="https://www.facebook.com/groups/testowanie">Testowanie oprogramowania - Materiały|Porady</a> 
+*  <a href="https://www.facebook.com/groups/czyitjestdlamnie">Start w IT - początkujący tester oprogramowania i programista</a> 
+* <a href="https://www.facebook.com/groups/TestowanieOprogramowania">Testowanie oprogramowania </a> 
+*  <a href="https://www.facebook.com/dareit.io">Dare IT Community</a> 
 
 # Recommended blogs
-*  <a href="http://pasja-informatyki.pl">remigiuszbednarczyk.pl</a> 
-*  <a href="http://pasja-informatyki.pl">wyszkolewas.com.pl</a> 
-*  <a href="http://pasja-informatyki.pl">testuj.pl - Test, Bugs & Rock'n'Roll</a> 
-*  <a href="http://pasja-informatyki.pl">testerzy.pl</a> 
+*  <a href="https://remigiuszbednarczyk.pl/">remigiuszbednarczyk.pl</a> 
+*  <a href="https://www.wyszkolewas.com.pl/">wyszkolewas.com.pl</a> 
+*  <a href="https://www.facebook.com/testujpl/?locale=pl_PL">testuj.pl - Test, Bugs & Rock'n'Roll</a> 
+*  <a href="https://testerzy.pl/">testerzy.pl</a> 
 
 # Webinars
 * Testowanie REST API dla początkujących
