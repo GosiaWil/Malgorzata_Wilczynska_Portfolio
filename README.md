@@ -1,5 +1,5 @@
 # About me
-My name is Małgorzata Wilczyńska. I am master's degree in cognitive science (Kognitywistyka). During my career I was developing mainly in customer service. Actually I I am  dealing with complaints and quality control in the optical industry. I am a person who needs continuous development, therefore I direct my professional path towards software testing. I have been expanding my knowledge in this field through self-learning.  
+<p align="justify"> My name is Małgorzata Wilczyńska. I am master's degree in cognitive science (Kognitywistyka). In recent years, I have been working in the optical industry, dealing mainly with the quality control of lenses. The constant desire to develop my skills and knowledge prompted me to change my career path. My penchant for noticing detail, as well as innate inquisitiveness, made me decide to develop myself in the area of software testing. I gain knowledge on my own. I am still working on expanding my knowledge in the field of good testing practices and learning the necessary tools that will help in my future work.  I wanted to share the result of my achievements so far below.  </p>  
 
 # Tools
 * Sharex - to record bugs
@@ -32,6 +32,7 @@ My name is Małgorzata Wilczyńska. I am master's degree in cognitive science (K
 * Karolina Pawłowska, Natalia Pawlak - <i> Podróż przez świat testowania </i>
 * Adam Roman - <i> Certyfikowany tester ISTQB. Poziom podstawowy </i>
 * Piotr Wicherski <i> Testowanie oprogramowiania </i>
+
 # Groups on Facebook 
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania - Materiały|Porady
