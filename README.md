@@ -55,8 +55,9 @@
 * Porozmawiajmy o IT
 
 # My test case examples
-<a href="https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link">Test cases1 for website Scouts Panel</a>
-<a href="https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link">Test cases2 for website Scouts Panel</a>
+
+* <a href="https://docs.google.com/document/d/1KLlXG0RL4-T7nHTPo6zspLucS6xVG6TfHPNA07nkMxI/edit?usp=share_link">Test cases1 for website Scouts Panel</a>
+* <a href="https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link">Test cases2 for website Scouts Panel</a>
 
 # My bug reports
 * For website : <a href="https://docs.google.com/document/d/1yq9rAtbZgUXVoGIKxlJPmgsEpYLMLILN7pMn4imQKAw/edit?usp=share_link">Bugs reported for website Scouts Panel</a>
@@ -64,5 +65,5 @@
 
 # My examples of queries in MySQL
 
-<a href="https://docs.google.com/document/d/1BObVkVdZNA2CyloSpWYX1wqovvJguQt-txr2Wzv3u6s/edit?usp=share_link "> SQL Queries are here</a>
+* <a href="https://docs.google.com/document/d/1BObVkVdZNA2CyloSpWYX1wqovvJguQt-txr2Wzv3u6s/edit?usp=share_link "> SQL Queries are here</a>
 
