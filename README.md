@@ -33,19 +33,19 @@
 * Piotr Wicherski <i> Testowanie oprogramowiania </i>
 
 # Groups on Facebook 
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania - Materiały|Porady
-* Początki w IT/Początkujący programiści
-* Start w IT - początkujący tester oprogramowania i programista
-* QA Testers - job offers
-* Testowanie oprogramowania
-* Dare IT Community
+* <a href="http://pasja-informatyki.pl">Tester oprogramowania - wsparcie na starcie</a> 
+*  <a href="http://pasja-informatyki.pl">Testowanie oprogramowania - Materiały|Porady</a> 
+*  <a href="http://pasja-informatyki.pl">Początki w IT/Początkujący programiści</a> 
+*  <a href="http://pasja-informatyki.pl">Start w IT - początkujący tester oprogramowania i programista</a> 
+* <a href="http://pasja-informatyki.pl">QA Testers - job offers </a> 
+* <a href="http://pasja-informatyki.pl">Testowanie oprogramowania </a> 
+*  <a href="http://pasja-informatyki.pl">Dare IT Community</a> 
 
 # Recommended blogs
-* remigiuszbednarczyk.pl
-* wyszkolewas.com.pl
-* testuj.pl - Test, Bugs & Rock'n'Roll
-* testerzy.pl
+*  <a href="http://pasja-informatyki.pl">remigiuszbednarczyk.pl</a> 
+*  <a href="http://pasja-informatyki.pl">wyszkolewas.com.pl</a> 
+*  <a href="http://pasja-informatyki.pl">testuj.pl - Test, Bugs & Rock'n'Roll</a> 
+*  <a href="http://pasja-informatyki.pl">testerzy.pl</a> 
 
 # Webinars
 * Testowanie REST API dla początkujących
@@ -61,8 +61,8 @@
 <a href="https://docs.google.com/document/d/1CNPNyylv6ZaZmLQT4OpxHFPM2xqZSXFhQAraRhrHy-g/edit?usp=share_link">Test cases2 for website Scouts Panel</a>
 
 # My bug reports
-* For website : <a href="http://pasja-informatyki.pl">Bugs reported for website Scouts Panel</a>
-* For mobile : <a href="http://pasja-informatyki.pl">Bugs reported for app OLX</a>
+* For website : <a href="https://docs.google.com/document/d/1yq9rAtbZgUXVoGIKxlJPmgsEpYLMLILN7pMn4imQKAw/edit?usp=share_link">Bugs reported for website Scouts Panel</a>
+* For mobile : <a href="https://docs.google.com/document/d/1255pSjkzYpxdSzenz_hgeqC_4AqR_OJx5cOfc4J1LSA/edit?usp=share_link">Bugs reported for app OLX</a>
 
 # My examples of queries in MySQL
 
