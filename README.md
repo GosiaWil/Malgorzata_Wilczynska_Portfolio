@@ -18,7 +18,7 @@
 * Postman - testing tool for REST API
 
 
-##Tech skills
+## Tech skills
 * SQL
 * DevTools
 * Software Testing
