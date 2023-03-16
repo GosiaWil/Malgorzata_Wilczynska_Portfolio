@@ -8,6 +8,7 @@
 
 
 ## Tools
+* Xampp - to create queries in SQL 
 * Sharex - to record bugs
 * PickPick - to printscreen bugs
 * GitHub 
